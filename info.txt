@@ -1,0 +1,8 @@
+code academy
+intro to bash
+codecademy.com Free
+they reach basic commands and how stuff works
+
+I have GDBhere
+I should lookup an info sheet 
+learn how to use aptget
